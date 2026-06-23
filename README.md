@@ -1,16 +1,120 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abuzar561/abuzar561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abuzar%20Saleem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Developer%20%7C%20AI%20Automation%20%7C%20ML%20%26%20Deep%20Learning&descAlignY=55&descSize=18" />
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Automating+Everything+with+AI+%26+n8n+%E2%9A%A1;Full-Stack+AI+%7C+Data+Science+%7C+Deep+Learning;Turning+Data+into+Decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://linkedin.com/in/abuzar-saleem-907345386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:contact.abuzar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/abuzar561"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=abuzar561&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+</p>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a **Full-Stack AI Developer** from 🇵🇰 Pakistan, specialized in building production-grade intelligent systems.
+
+- 🤖 **AI Automation** — End-to-end pipelines with n8n, Python & LLM orchestration
+- 📊 **Data Science & ML** — Predictive models, forecasting, and credit/insurance analytics
+- 🔍 **RAG & AI Agents** — Autonomous agents, vector search, OpenAI & LangChain
+- 🏭 **Company**: [@schmoozzer](https://github.com/schmoozzer)
+- 💬 Ask me about **Python, n8n, Machine Learning, AI Automation, RAG systems**
+- 📫 Reach me at **contact.abuzar1@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**Automation & Backend**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Database & Cloud**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🎵 TikTok Viral AI Automation](https://github.com/abuzar561/TikTok-Viral-Ai-Automation) | Automated content pipeline: scrapes trending TikToks, analyzes engagement via n8n, generates content | Python, Selenium, n8n |
+| [🤖 AI Lead Qualifier Agent](https://github.com/abuzar561/AI-Lead-Qualifier-Agent) | Autonomous agent that qualifies leads with AI scoring and automated outreach | Python, AI Agents |
+| [📦 Inventory Chat Agent](https://github.com/abuzar561/Inventory-Chat-Agent) | Natural-language inventory management that updates Google Sheets via n8n | n8n, OpenAI, Google Sheets |
+| [🔍 Autonomous AI Research Agent](https://github.com/abuzar561/Autonomous-AI-Research-Agent) | Autonomous agent that does hours of research in minutes | Python, LangChain, AI |
+| [💳 ML Credit Card Approval Predictor](https://github.com/abuzar561/ML_Credit_Card_Approval_Predictor_app) | ML app predicting credit card eligibility using Random Forest | Python, Streamlit, scikit-learn |
+| [🛒 Retail Sales Forecasting AI](https://github.com/abuzar561/Retail-Sales-Forecasting-AI-with-Streamlit) | Predicts daily product sales to optimize inventory levels | Python, Streamlit, ML |
+| [🧠 Autonomous RAG Support Agent](https://github.com/abuzar561/Autonomous-Rag-Support-Agent) | Intelligent customer support with vector search & confidence scoring | n8n, Supabase, OpenAI |
+| [📰 TikTok News Video Automation](https://github.com/abuzar561/TikTok-News-Video-Automation) | Turns a news URL into a ready-to-post TikTok: script, voiceover, AI images | Python, AI, Automation |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abuzar561&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzar561&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abuzar561&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6e00&currStreakLabel=00d4ff" height="180"/>
+
+</div>
+
+<div align="center">
+
+[![Abuzar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abuzar561&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abuzar561&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to AI consulting · Automation projects · ML engineering roles**
+
+*Building from Pakistan 🇵🇰 — shipping to the world 🌍*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+
+</div>
