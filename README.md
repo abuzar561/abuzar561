@@ -104,7 +104,7 @@ I am a **Full-Stack AI Developer** from Pakistan, specialized in building produc
 
 <div align="center">
 
-[GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abuzar561)
+[![Trophies](./assets/trophy.svg)](https://github-profile-trophy.vercel.app/?username=abuzar561)
 
 </div>
 

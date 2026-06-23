@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="120" viewBox="0 0 300 120">
+  <rect width="100%" height="100%" fill="transparent"/>
+  <g transform="translate(150,60)">
+    <ellipse cx="0" cy="18" rx="40" ry="10" fill="#f0c419" opacity="0.9"/>
+    <rect x="-50" y="-10" width="100" height="20" rx="10" fill="#f7d356"/>
+    <path d="M-30 -10 C -30 -40 30 -40 30 -10 L 30 -10 C 30 10 -30 10 -30 -10 Z" fill="#f7d356" stroke="#e6b800" stroke-width="2"/>
+    <circle cx="0" cy="-20" r="8" fill="#fff"/>
+    <text x="0" y="48" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#c47a00" text-anchor="middle">GitHub Trophies</text>
+  </g>
+</svg>
