@@ -1,8 +1,6 @@
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abuzar%20Saleem&fontSize=42&fontColor=fff&animation=twinkling)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abuzar%20Saleem&fontSize=42&fontColor=fff&animation=twinkling&fontA[...]
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Mastering+AI+Automation+and+ML)](https://github.com/abuzar561)
 
 <p align="center">
   <a href="https://linkedin.com/in/abuzar-saleem-907345386">
@@ -16,8 +14,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=abuzar561&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 </p>
-
-</div>
 
 ---
 
@@ -108,7 +104,7 @@ I am a **Full-Stack AI Developer** from Pakistan, specialized in building produc
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=abuzar561&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+[![Trophies](./assets/trophy.svg)](https://github-profile-trophy.vercel.app/?username=abuzar561)
 
 </div>
 
