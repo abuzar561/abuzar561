@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abuzar%20Saleem&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20AI%20Developer%20%7C%20AI%20Automation%20%7C%20ML%20%26%20Deep%20Learning&descAlignY=52&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abuzar%20Saleem&fontSize=42&fontColor=fff&animation=twinkling&fontA[...]
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Automating+Everything+with+AI+%26+n8n+%E2%9A%A1;Full-Stack+AI+%7C+Data+Science+%7C+Deep+Learning;Turning+Data+into+Decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;[...]
 
 <p align="center">
   <a href="https://linkedin.com/in/abuzar-saleem-907345386">
@@ -70,14 +70,14 @@ I am a **Full-Stack AI Developer** from Pakistan, specialized in building produc
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [TikTok Viral AI Automation](https://github.com/abuzar561/TikTok-Viral-Ai-Automation) | Automated content pipeline scraping trending TikToks, analyzing engagement, generating viral scripts | Python, Selenium, n8n |
+| [TikTok Viral AI Automation](https://github.com/abuzar561/TikTok-Viral-Ai-Automation) | Automated content pipeline scraping trending TikToks, analyzing engagement, generating viral scripts | Pyt[...]
 | [AI Lead Qualifier Agent](https://github.com/abuzar561/AI-Lead-Qualifier-Agent) | Autonomous agent that qualifies leads with AI scoring and automated outreach | Python, AI Agents |
 | [Inventory Chat Agent](https://github.com/abuzar561/Inventory-Chat-Agent) | Natural-language inventory management updating Google Sheets via n8n | n8n, OpenAI, Google Sheets |
 | [Autonomous AI Research Agent](https://github.com/abuzar561/Autonomous-AI-Research-Agent) | Autonomous agent that does hours of research in minutes | Python, LangChain |
-| [ML Credit Card Approval Predictor](https://github.com/abuzar561/ML_Credit_Card_Approval_Predictor_app) | ML app predicting credit card eligibility using Random Forest | Python, Streamlit, scikit-learn |
+| [ML Credit Card Approval Predictor](https://github.com/abuzar561/ML_Credit_Card_Approval_Predictor_app) | ML app predicting credit card eligibility using Random Forest | Python, Streamlit, sciki[...]
 | [Retail Sales Forecasting AI](https://github.com/abuzar561/Retail-Sales-Forecasting-AI-with-Streamlit) | Predicts daily product sales to optimize inventory levels | Python, Streamlit, ML |
 | [Autonomous RAG Support Agent](https://github.com/abuzar561/Autonomous-Rag-Support-Agent) | Intelligent customer support with vector search and confidence scoring | n8n, Supabase, OpenAI |
-| [TikTok News Video Automation](https://github.com/abuzar561/TikTok-News-Video-Automation) | Turns a news URL into a ready-to-post TikTok with script, voiceover, AI images | Python, AI, Automation |
+| [TikTok News Video Automation](https://github.com/abuzar561/TikTok-News-Video-Automation) | Turns a news URL into a ready-to-post TikTok with script, voiceover, AI images | Python, AI, Automatio[...]
 
 ---
 
@@ -123,3 +123,5 @@ I am a **Full-Stack AI Developer** from Pakistan, specialized in building produc
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
+
+<!-- profile README reindex trigger: 2026-06-23 by @copilot -->
