@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2d1b69&height=200&section=header&text=Abuzar%20Saleem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20AI%20Developer%20%7C%20AI%20Automation%20%7C%20ML%20%26%20Deep%20Learning&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abuzar%20Saleem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20AI%20Developer%20%7C%20AI%20Automation%20%7C%20ML%20%26%20Deep%20Learning&descAlignY=55&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Automating+Everything+with+n8n+%26+Python+%E2%9A%A1;Full-Stack+AI+%7C+Data+Science+%7C+Deep+Learning;Turning+Data+into+Decisions+%F0%9F%9A%80)](https://github.com/abuzar561)
 
@@ -121,6 +121,6 @@ I'm a **Full-Stack AI Developer** from 🇵🇰 Pakistan, specialized in buildin
 
 *Building from Pakistan 🇵🇰 — shipping to the world 🌍*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a1b27,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
