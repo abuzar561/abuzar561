@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Automating%20Everything%20with&fontSize=48&fontColor=00D4FF)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Abuzar%20Saleem&fontSize=48&fontColor=00D4FF)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Mastering+AI+Automation+and+ML)](https://github.com/abuzar561)
 
@@ -82,8 +82,8 @@ I'm a **Full-Stack AI Developer** from 🇵🇰 Pakistan, specialized in buildin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abuzar561&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzar561&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abuzar561&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_[...]
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzar561&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&[...]
 
 </div>
 
@@ -95,7 +95,7 @@ I'm a **Full-Stack AI Developer** from 🇵🇰 Pakistan, specialized in buildin
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abuzar561&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff)](https://github.com/abuzar561)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abuzar561&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff)](https://githu[...]
 
 </div>
 
