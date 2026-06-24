@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abuzar%20Saleem&fontSize=52&fontColor=ffffff&fontAlignY=40)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abuzar%20Saleem&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Ai-Developer%20%7C%20AI%20Engineer&descAlignY=56&descAlign=62" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Mastering+AI+Automation+and+ML)](https://github.com/abuzar561)
 
